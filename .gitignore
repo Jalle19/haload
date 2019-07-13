@@ -1,0 +1,6 @@
+.idea
+.vagrant
+bower_components
+composer.phar
+node_modules
+vendor
